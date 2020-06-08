@@ -1,0 +1,63 @@
+{"frames": {
+
+"Voltmeter_5.png":
+{
+	"frame": {"x":48,"y":0,"w":34,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":16},
+	"sourceSize": {"w":34,"h":16}
+},
+"Voltmeter_30.png":
+{
+	"frame": {"x":28,"y":0,"w":20,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":14},
+	"sourceSize": {"w":20,"h":14}
+},
+"Voltmeter_box.png":
+{
+	"frame": {"x":0,"y":110,"w":242,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":251},
+	"sourceSize": {"w":242,"h":251}
+},
+"Voltmeter_hold.png":
+{
+	"frame": {"x":82,"y":0,"w":39,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":18},
+	"sourceSize": {"w":39,"h":18}
+},
+"Voltmeter_line.png":
+{
+	"frame": {"x":0,"y":0,"w":11,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":110},
+	"sourceSize": {"w":11,"h":110}
+},
+"Voltmeter_num.png":
+{
+	"frame": {"x":11,"y":0,"w":17,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":2},
+	"sourceSize": {"w":17,"h":2}
+}},
+"animations": {
+	"Voltmeter": ["Voltmeter_5.png","Voltmeter_30.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Voltmeter.png",
+	"format": "RGBA8888",
+	"size": {"w":242,"h":361},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b089458f73629bec8c98eea698960568:38c380556ca425ad3eeb79c0158c83b0:d97e6106fbb1d1c2e1d72e30c8dbb156$"
+}
+}

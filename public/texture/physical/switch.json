@@ -1,0 +1,28 @@
+{"frames": {
+
+"switchHolder.png":
+{
+	"frame": {"x":0,"y":0,"w":241,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":90},
+	"sourceSize": {"w":241,"h":90}
+},
+"switchPipe.png":
+{
+	"frame": {"x":0,"y":90,"w":217,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":28},
+	"sourceSize": {"w":217,"h":28}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "switch.png",
+	"format": "RGBA8888",
+	"size": {"w":241,"h":118},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9d45246b24c944732ec152f5ec419ad2:4810df7acfe0a3b75c3746cd1039b4a8:f0af961a835812ca261f1de314d7221b$"
+}
+}

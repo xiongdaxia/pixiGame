@@ -1,0 +1,28 @@
+{"frames": {
+
+"tubeBody.png":
+{
+	"frame": {"x":0,"y":0,"w":79,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":535},
+	"sourceSize": {"w":79,"h":535}
+},
+"tubeBreak.png":
+{
+	"frame": {"x":0,"y":535,"w":83,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":238},
+	"sourceSize": {"w":83,"h":238}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bigTestTube.png",
+	"format": "RGBA8888",
+	"size": {"w":83,"h":773},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ce9557fde04b165f7e9fd21c82d228a:ef1aaa92b65314314782cc634cdd4226:8429752fe4c44e24a4e10574d4ed0e9a$"
+}
+}
