@@ -1,7 +1,7 @@
 ## cocos
-*[贪吃蛇](http://xiongdaxia.tech/cocos/?page=g2_e4&example=2&lesson=1)
-*[切水果](http://xiongdaxia.tech/cocos/?page=g2_e7&example=2&lesson=1)
-*[泡泡龙](http://xiongdaxia.tech/cocos/?page=g2_e15&example=2&lesson=1)
+* [贪吃蛇](http://xiongdaxia.tech/cocos/?page=g2_e4&example=2&lesson=1)
+* [切水果](http://xiongdaxia.tech/cocos/?page=g2_e7&example=2&lesson=1)
+* [泡泡龙](http://xiongdaxia.tech/cocos/?page=g2_e15&example=2&lesson=1)
 
 ## pixi
 * [推箱子](http://xiongdaxia.tech/pixi/#/common/2001/g1_l6/example5)
